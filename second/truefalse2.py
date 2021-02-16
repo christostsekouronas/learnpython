@@ -4,6 +4,7 @@ else:
     print("False")
 
 name = input("Please enter your name: ")
+name = int(input())
 # if name:
 if name != "":
     print("Hello, {}".format(name))
