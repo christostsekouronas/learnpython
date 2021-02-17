@@ -1,3 +1,8 @@
+# when only 20 for exaple is inside range the program starts from 0 and ends to 19 because 0 is the default
+for i in range(20):
+    print(i)
+
+# begins from 1 and stops to 20
 for i in range(1, 20):
     print("i is now {}".format(i))
 
