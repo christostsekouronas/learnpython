@@ -1,4 +1,4 @@
-# we put """ at the start and end of a sentence if we want to change line
+# we put """ at the start and end of a sentence if we want to change line in a huge sentence
 
 quote = """ Alright, but apart from the Sanitation, 
 the Medicine, Education, Wine, Public Order, Irrigation, Roads, the Frensh-Water System, 
