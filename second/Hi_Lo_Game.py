@@ -6,6 +6,7 @@ input("Pres ENTER to start")    #we have written this in order to let the comput
 
 guesses = 1
 while True:
+    print("\tGuessing in the range of {} to {}".format(low, high))
     guess = low + (high - low) // 2
     high_low = input("My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess is correct ".format(guesses).casefold())
 
